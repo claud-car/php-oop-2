@@ -26,11 +26,4 @@ $ordine1 = new Ordine ($utente1->getCarrello());
 var_dump($ordine1);
 
 
-
-
-
-
-
-
-
 ?>

@@ -22,7 +22,7 @@ class prodotto
 
     public function getPrezzo()
     {
-        return $this->$prezzo;
+        return $this->prezzo;
     }
 }
 ?>
